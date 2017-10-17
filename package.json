@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-video-controls@^1.4.1",
+        "scope": null,
+        "escapedName": "react-native-video-controls",
+        "name": "react-native-video-controls",
+        "rawSpec": "^1.4.1",
+        "spec": ">=1.4.1 <2.0.0",
+        "type": "range"
+      },
+      "/Users/zjerry/Documents/hinongbao"
+    ]
+  ],
+  "_cnpm_publish_time": 1504123272144,
+  "_from": "react-native-video-controls@>=1.4.1 <2.0.0",
+  "_id": "react-native-video-controls@1.4.1",
+  "_inCache": true,
+  "_location": "/react-native-video-controls",
+  "_nodeVersion": "8.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-video-controls-1.4.1.tgz_1504123271026_0.3737806004937738"
+  },
+  "_npmUser": {
+    "name": "kylemilloy",
+    "email": "kmilloy@nubix.ca"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-video-controls@^1.4.1",
+    "scope": null,
+    "escapedName": "react-native-video-controls",
+    "name": "react-native-video-controls",
+    "rawSpec": "^1.4.1",
+    "spec": ">=1.4.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-video-controls/download/react-native-video-controls-1.4.1.tgz",
+  "_shasum": "6680f00e402037d941f2df9c5c6dc70f3ee47b3b",
+  "_shrinkwrap": null,
+  "_spec": "react-native-video-controls@^1.4.1",
+  "_where": "/Users/zjerry/Documents/hinongbao",
+  "author": {
+    "name": "Nubix",
+    "url": "https://github.com/itsnubix"
+  },
+  "bugs": {
+    "url": "https://github.com/itsnubix/react-native-video-controls/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "description": "A set of GUI controls for the react-native-video component",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6680f00e402037d941f2df9c5c6dc70f3ee47b3b",
+    "size": 29056,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-video-controls/download/react-native-video-controls-1.4.1.tgz"
+  },
+  "gitHead": "29256e17fece895a5479bf76369ec33e29053c52",
+  "homepage": "https://github.com/itsnubix/react-native-video-controls#readme",
+  "keywords": [
+    "react-native",
+    "react-native-video",
+    "react video controls",
+    "react video player"
+  ],
+  "license": "MIT",
+  "main": "VideoPlayer.js",
+  "maintainers": [
+    {
+      "name": "kylemilloy",
+      "email": "kmilloy@nubix.ca"
+    }
+  ],
+  "name": "react-native-video-controls",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": "0.47.2",
+    "react-native-video": "^2.0.0"
+  },
+  "publish_time": 1504123272144,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itsnubix/react-native-video-controls.git"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "version": "1.4.1"
+}
